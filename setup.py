@@ -5,7 +5,7 @@ setup(
   packages = ['georefdata'],
   package_dir = {'georefdata': 'georefdata'},
   package_data = {'georefdata': ['__init__.py', 'data/country_codes.txt', 'data/geonames_feature_classes.txt', 'data/geonames_feature_codes.txt']},
-  version = '1.0',
+  version = '1.1',
   description = 'Country Codes and other Miscellaneous Geo-Spatial Reference Data',
   author = 'Daniel J. Dufour',
   author_email = 'daniel.j.dufour@gmail.com',
