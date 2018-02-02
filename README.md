@@ -18,7 +18,12 @@ georefdata.get_geonames_feature_classes()
 
 georefdata.get_geonames_feature_codes()
 # ['ADM1', 'ADM1H', 'ADM2', ... 'ZNF', 'ZOO', 'null]
+
+georefdata.get_timezones()
+#['Africa/Abidjan', 'Africa/Accra', ... 'Pacific/Wake', 'Pacific/Wallis']
+
+
 ```
 
 # attribution
-[GeoNames](https://geonames.org) uses [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which requires attribution.  GeoNames Feature Classes and GeoNames Feature Codes come from GeoNames.
+[GeoNames](https://geonames.org) uses [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which requires attribution.  GeoNames Feature Classes, GeoNames Feature Codes, and Time Zones come from GeoNames.
