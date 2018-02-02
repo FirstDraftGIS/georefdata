@@ -20,5 +20,5 @@ georefdata.get_geonames_feature_codes()
 # ['ADM1', 'ADM1H', 'ADM2', ... 'ZNF', 'ZOO', 'null]
 ```
 
-### GeoNames
+# attribution
 [GeoNames](https://geonames.org) uses [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which requires attribution.  GeoNames Feature Classes and GeoNames Feature Codes come from GeoNames.
