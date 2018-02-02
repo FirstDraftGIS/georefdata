@@ -27,3 +27,7 @@ georefdata.get_timezones()
 
 # attribution
 [GeoNames](https://geonames.org) uses [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which requires attribution.  GeoNames Feature Classes, GeoNames Feature Codes, and Time Zones come from GeoNames.
+
+# links
+http://download.geonames.org/export/dump/featureCodes_en.txt
+http://download.geonames.org/export/dump/timeZones.txt
